@@ -31,7 +31,7 @@ This framework is optimized for:
 Phantom ID is a proprietary, premium solution. It is available for licensing to security researchers, software developers, and enterprise clients. Custom modifications, API integrations, and white-label solutions are available upon request.
 
 **For business inquiries, pricing, and purchasing:**
-* **Direct Contact:** [Message on Telegram (@divyankcodes)](https://t.me/divyankcodes)
+* **Direct Contact:** [Message on Telegram (@divyankcoder)](https://t.me/divyankcoder)
 
 ---
 **Legal Disclaimer:** *This software is developed strictly for educational purposes, authorized security research, and legitimate testing environments. The developer assumes no liability and is not responsible for any misuse or damage caused by this program. End-users are solely responsible for ensuring their usage complies with all applicable local laws and the Terms of Service of any third-party applications or networks they interact with.*
